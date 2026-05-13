@@ -6,7 +6,7 @@ description = "A massively spiffy yet delicately unobtrusive compression library
 author = "Jean-loup Gailly and Mark Adler"
 homepage = "https://zlib.net/"
 license = "Zlib"
-repository = "https://github.com/madler/zlib"
+repository = "https://github.com/dcr-ports/zlib-port"
 
 [build]
 language = "c"
